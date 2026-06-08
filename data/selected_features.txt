@@ -1,0 +1,14 @@
+WeeklyPlayLoad
+SessionsPerWeek
+AvgSessionDurationMinutes
+SessionDepth
+AchievementsUnlocked
+PlayerLevel
+AchievementRate
+GameGenre_RPG
+PlayTimeHours
+GameGenre_Simulation
+Age
+GameGenre_Strategy
+InGamePurchases
+Location_Europe
