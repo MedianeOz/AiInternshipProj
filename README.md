@@ -136,11 +136,9 @@ http://127.0.0.1:8000/docs
 ### 4. Run the Streamlit dashboard
 
 ```bash
-pip install streamlit
-streamlit run dashboard.py
+pip install -r streamlit_app/requirements.txt
+streamlit run streamlit_app/app.py
 ```
-
-Note: the current repository contains the FastAPI backend and dashboard placeholder; add the Streamlit entry file as `dashboard.py` when the UI task is implemented.
 
 ## API Usage
 
